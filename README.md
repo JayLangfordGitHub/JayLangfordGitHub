@@ -52,7 +52,7 @@
         Email
     </a>
 </p>
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/jay-e-langford" target="blank">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="jay-e-langford" height="30" style="vertical-align:middle; margin:5px"/>
         LinkedIn
