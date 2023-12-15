@@ -36,9 +36,10 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayLangfordGitHub&show_icons=true&theme=radical" alt="JayLangfordGitHub" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayLangfordGitHub&theme=radical" alt="JayLangfordGitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JayLangfordGitHub&show_icons=true&theme=radical" alt="JayLangfordGitHub" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayLangfordGitHub&theme=radical" alt="JayLangfordGitHub" width="400" />
 </p>
+
 
 ### 📚 Most Used Languages:
 <p align="center">
