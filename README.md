@@ -29,9 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="padding:5px;"/>
-  <img src="![image](https://github.com/JayLangfordGitHub/JayLangfordGitHub/assets/132077071/5aa92fda-ce89-47b4-9ee9-dddca4f2d248)
-" alt="Cisco" width="40" height="40" style="padding:5px;"/>
-</p>
 
 --- 
 
