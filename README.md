@@ -7,9 +7,12 @@
 ---
 
 ### 🌱 What I'm Learning:
-- [Technology or Subject 1]
-- [Technology or Subject 2]
-- [Technology or Subject 3]
+- NoSQL Databases: MongoDB
+- Web App Developement 2: React, Express.js, Node.js, MongoDB
+- Wireless Communications: Packet Tracer, Wireless Routers
+- Developer Operations: AWS, DevOps functionality
+- Network Forensics: Netcat, Wireshark, Nmap, ect..
+- Professional Practice: Professional CV, Career Plan, Presentation Practice
 
 ### 💼 Technical Skills:
 <p align="center">
