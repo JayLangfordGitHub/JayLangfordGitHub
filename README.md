@@ -34,7 +34,6 @@ icons here
 </p>
 
 ### 🤝 Connect with Me:
-<p align="center">
-<a href="Your_LinkedIn_Profile" target="blank"><img src="LINKEDIN_ICON_LINK" alt="www.linkedin.com/in/jay-e-langford" height="30" width="40" /></a>
-</p>
+- Email: jaylangfordprf@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jay-e-langford
 
