@@ -29,7 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="padding:5px;"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpacket-tracer-mobile.en.uptodown.com%2Fandroid&psig=AOvVaw2Y2h9CmcO7LjBfE5ReHPGG&ust=1702720631473000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDwzuqWkYMDFQAAAAAdAAAAABAD" alt="Packet Tracer" width="40" height="40" style="padding:5px;"/>
+  <img src="![image](https://github.com/JayLangfordGitHub/JayLangfordGitHub/assets/132077071/013c1856-1dc1-4e3d-a2ca-2bbaa168087f)
+" alt="Packet Tracer" width="40" height="40" style="padding:5px;"/>
 </p>
 
 --- 
