@@ -46,13 +46,15 @@
 </p>
 
 ### 🤝 Connect with Me:
+<p>
     <a href="mailto:jaylangfordprf@gmail.com" target="blank">
         <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="jaylangfordprf@gmail.com" height="30" style="vertical-align:middle; margin:5px"/>
         Email
     </a>
+</p>
+<p align="center">
     <a href="https://www.linkedin.com/in/jay-e-langford" target="blank">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="jay-e-langford" height="30" style="vertical-align:middle; margin:5px"/>
         LinkedIn
     </a>
-
-
+</p>
