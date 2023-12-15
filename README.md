@@ -12,13 +12,20 @@
 - [Technology or Subject 3]
 
 ### 💼 Technical Skills:
+### 💼 Technical Skills:
 <p align="center">
-icons here
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" style="padding:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="padding:5px;"/>
 </p>
 
-### 📫 How to Reach Me:
-- Email: jaylangfordprf@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jay-e-langford
 
 ---
 
@@ -34,6 +41,16 @@ icons here
 </p>
 
 ### 🤝 Connect with Me:
-- Email: jaylangfordprf@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jay-e-langford
+### 🤝 Connect with Me:
+<p align="center">
+    <a href="mailto:jaylangfordprf@gmail.com" target="blank">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="jaylangfordprf@gmail.com" height="30" style="vertical-align:middle; margin:5px"/>
+        Email
+    </a>
+    <a href="https://www.linkedin.com/in/jay-e-langford" target="blank">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="jay-e-langford" height="30" style="vertical-align:middle; margin:5px"/>
+        LinkedIn
+    </a>
+</p>
+
 
