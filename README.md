@@ -24,17 +24,17 @@ icons here
 
 ### 📊 My GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="YOUR_GITHUB_USERNAME" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="YOUR_GITHUB_USERNAME" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JayLangfordGitHub&show_icons=true&theme=radical" alt="JayLangfordGitHub" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayLangfordGitHub&theme=radical" alt="JayLangfordGitHub" />
 </p>
 
 ### 📚 Most Used Languages:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="YOUR_GITHUB_USERNAME" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLangfordGitHub&layout=compact&theme=radical" alt="JayLangfordGitHub" />
 </p>
 
 ### 🤝 Connect with Me:
 <p align="center">
-<a href="Your_LinkedIn_Profile" target="blank"><img src="LINKEDIN_ICON_LINK" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
+<a href="Your_LinkedIn_Profile" target="blank"><img src="LINKEDIN_ICON_LINK" alt="www.linkedin.com/in/jay-e-langford" height="30" width="40" /></a>
 </p>
 
