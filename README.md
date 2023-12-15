@@ -12,7 +12,6 @@
 - [Technology or Subject 3]
 
 ### 💼 Technical Skills:
-### 💼 Technical Skills:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding:5px;"/>
@@ -40,7 +39,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLangfordGitHub&layout=compact&theme=radical" alt="JayLangfordGitHub" />
 </p>
 
-### 🤝 Connect with Me:
 ### 🤝 Connect with Me:
 <p align="center">
     <a href="mailto:jaylangfordprf@gmail.com" target="blank">
