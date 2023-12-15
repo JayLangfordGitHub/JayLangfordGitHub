@@ -29,7 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="padding:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Packet Tracer" width="40" height="40" style="padding:5px;"/>
+  <img src="![image](https://github.com/JayLangfordGitHub/JayLangfordGitHub/assets/132077071/67f8f49d-c635-430f-86d8-3d8fb4112e29)
+" alt="Packet Tracer" width="40" height="40" style="padding:5px;"/>
 </p>
 
 --- 
