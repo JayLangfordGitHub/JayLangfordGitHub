@@ -7,12 +7,10 @@
 ---
 
 ### 🌱 What I'm Learning:
-- NoSQL Databases: MongoDB
-- Web App Developement 2: React, Express.js, Node.js, MongoDB
-- Wireless Communications: Packet Tracer, Wireless Routers
-- Developer Operations: AWS, DevOps functionality
-- Network Forensics: Netcat, Wireshark, Nmap, ect..
-- Professional Practice: Professional CV, Career Plan, Presentation Practice
+- AWS Cloud Infrastructure: Serverless Infrastructure, Lambda functions, ESC services, Docker, API Endpoints, Kubernetes Operators, InfluxDB
+- Mobile App Developement: Kotlin, Android Studio, Java
+- Data Mining: DataSets, Data Modeling, Data Analysis, Regression, Classification
+- Network & System Security: Firewalls, ACLs, IPtables, Intrusion Detection, Cloud Security, Transport Layer Security
 
 ### 💼 Technical Skills:
 <p align="center">
