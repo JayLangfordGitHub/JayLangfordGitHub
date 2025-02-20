@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://github.com/JayLangfordGitHub)
 <h1 align="center">Hi 👋, I'm Jay Langford</h1>
-<h3 align="center">A BSc (Hons) in Computer Science (Cloud & Networks) student at SETU Waterford</h3>
+<h3 align="center">A BSc (Hons) in Applied Computing (Cloud & Networks) student at SETU Waterford</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JayLangfordGitHub&label=Profile%20views&color=0e75b6&style=flat-square" alt="JayLangfordGitHub" /> </p>
 
