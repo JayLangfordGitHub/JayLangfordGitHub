@@ -6,11 +6,11 @@
 
 ---
 
-### 🌱 What I'm Learning:
-- AWS Cloud Infrastructure: Serverless Infrastructure, Lambda functions, ESC services, Docker, API Endpoints, Kubernetes Operators, InfluxDB
-- Mobile App Developement: Kotlin, Android Studio, Java
+### 🌱 What I'm Currently Learning:
+- AWS Cloud Infrastructure: Server/Serverless Infrastructure, Lambda functions, ESC services, Docker, API Endpoints, Kubernetes Operators, InfluxDB, Terraform, Ansible
+- IoT: MQTT, IFTTT, Raspberry Pi
 - Data Mining: DataSets, Data Modeling, Data Analysis, Regression, Classification
-- Network & System Security: Firewalls, ACLs, IPtables, Intrusion Detection, Cloud Security, Transport Layer Security
+- Practical Programming - Haskell, Stack
 
 ### 💼 Technical Skills:
 <p align="center">
